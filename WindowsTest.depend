@@ -1,0 +1,23 @@
+# depslib dependency file v1.0
+1687627116 source:c:\users\david\onedrive\documents\programming\c stuff\testsource.cpp
+	<cstdio>
+	<windows.h>
+	<windef.h>
+	<wingdi.h>
+
+1687919321 source:c:\users\david\onedrive\documents\programming\windowstest\testsource.cpp
+	<cstdio>
+	<cmath>
+	<windows.h>
+	<windef.h>
+	<wingdi.h>
+	<fstream>
+	<iostream>
+	"winmessagemap.h"
+	<typeinfo>
+	<d2d1.h>
+	<d2d1helper.h>
+
+1687728039 c:\users\david\onedrive\documents\programming\windowstest\winmessagemap.h
+	<map>
+
